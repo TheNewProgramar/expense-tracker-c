@@ -17,3 +17,8 @@ A simple expense tracker written in C with ncurses GUI.
 
 ```bash
 gcc -Wall -Wextra -o expense_tracker main.c -lncurses
+```
+## 🏃 How to Run
+```bash
+./expense_tracker
+```
