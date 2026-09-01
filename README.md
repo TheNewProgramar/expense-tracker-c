@@ -22,3 +22,16 @@ gcc -Wall -Wextra -o expense_tracker main.c -lncurses
 ```bash
 ./expense_tracker
 ```
+## 📁 File Format
+
+Expenses are saved in save_expenses.txt:
+```text
+====================================
+Expense #1
+====================================
+Description: Grocery shopping
+Category: Food
+Amount: $25.50
+Date: 2026-09-01 14:30:25
+====================================
+```
