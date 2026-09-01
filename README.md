@@ -35,3 +35,10 @@ Amount: $25.50
 Date: 2026-09-01 14:30:25
 ====================================
 ```
+📚 Learning Goals
+
+  - ncurses GUI
+  - File I/O
+  - Dynamic memory
+  - Time/date handling
+  - Data organization
